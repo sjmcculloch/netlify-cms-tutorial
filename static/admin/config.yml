@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: /sjmcculloch/netlify-cms-tutorial
+  repo: /netlify-cms-tutorial
 
 media_folder: static/assets
 public_folder: /assets
