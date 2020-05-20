@@ -7,4 +7,4 @@ ok
 
 
 
-![](/assets/518051-curse-of-the-azure-bonds-pc-98-front-cover.jpg)
+![](/assets/ph6.png)
